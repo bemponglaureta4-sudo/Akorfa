@@ -19,6 +19,9 @@ I’m currently working on small projects to practice and improve:
  Bash & Git practice exercises  
  Fun experiments combining art + code
 
+
+Every expert was once a beginner. I’m learning one step at a time!”*  
+
 Connect with Me
 Email: bemponglaureta4@gmail.com  
 LinkedIn: 
