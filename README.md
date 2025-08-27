@@ -1,23 +1,29 @@
+ Hi there, I’m Loretta Akorfa  
 
- Hi, I'm Loretta Akorfa  
-Software Engineering Student | Future Full-Stack Developer  
-Passionate about learning, problem-solving, and building simple projects as I grow my skills.  
+ I am a learner of the ALX  Front-End Software Engineering program.  
+ Currently exploring the foundations of software engineering and graphic design.  
+ I started with software engineering because i want to blend of tech and creative skills.  
+ My aim is to create user-friendly tools that simplify everyday life.  
+ I’d love to work on projects like interactive websites, children’s learning apps, and creative design projects.  
 
-What I’m Learning
-Front-End basics (HTML, CSS, JavaScript)  
-Git & GitHub for version control  
-Back-End with Node.js (in progress)  
+---
 
-Skills So Far
- Languages: HTML, CSS, JavaScript (beginner)  
-Tools: Git, GitHub, VS Code  
-Other Interests:Digital Art, Storytelling , Creative Projects    
+ What I Do
+Educator & Founder of Learning with Smiles  
+Children’s Storyteller & Author 
+Aspiring Front-End Software Engineer 
+Graphic Design Enthusiast 
 
-My Learning Projects
-I’m currently working on small projects to practice and improve:  
- Personal Portfolio Website (in progress)  
- Bash & Git practice exercises  
- Fun experiments combining art + code
+
+##  Tech Stack (Growing Every Day)
+- **Languages:** HTML, CSS, JavaScript (beginner)  
+- **Tools:** Git, GitHub, VS Code, Canva, Figma  
+- **Learning:** React, Responsive Design, UI/UX basics 
+
+ 
+
+---
+ *Thanks for visiting my profile! Always learning, always creating.* 
 
 
 Every expert was once a beginner. I’m learning one step at a time!”*  
