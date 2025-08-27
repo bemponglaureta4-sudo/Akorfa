@@ -26,11 +26,11 @@ Graphic Design Enthusiast
  *Thanks for visiting my profile! Always learning, always creating.* 
 
 
-Every expert was once a beginner. I’m learning one step at a time!”*  
+Every expert was once a beginner. I’m learning one step at a time! 
 
 Connect with Me
 Email: bemponglaureta4@gmail.com  
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/loretta-akorfa-bempong
 
  
 
